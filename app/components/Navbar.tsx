@@ -23,7 +23,7 @@ const Navbar = () => {
               <Link href="getstarted" className="hover:text-indigo-200 transition-colors">Get started</Link>
               <Link href="#" className="hover:text-indigo-200 transition-colors">My Tasks</Link>
               <Link href="#" className="hover:text-indigo-200 transition-colors">Log in</Link>
-              <Link href="#" className="hover:text-indigo-200 transition-colors">Sign up</Link>
+              <Link href="signup" className="hover:text-indigo-200 transition-colors">Sign up</Link>
             </div>
             
             {/* Mobile menu button */}
