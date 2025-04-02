@@ -7,8 +7,8 @@ function Home() {
     <>
     <Navbar></Navbar>
     <Description></Description>
-    <GradientBackground>
-    </GradientBackground>
+    <GradientBackground></GradientBackground>
+    
     </>
   )
 }

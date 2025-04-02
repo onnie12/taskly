@@ -10,7 +10,7 @@ const Description = () => {
         An advanced, easy to use to-do list program to transform your days
       </p>
       <p className="text-lg italic">-for completely free.</p>
-      <Link href="getstarted">
+      <Link href="signup">
       <button className="px-6 py-3 text-lg font-medium rounded-lg bg-blue-600 text-white hover:bg-blue-700 transition-colors duration-200 flex items-center">
         Try Now <span className="ml-2">→</span>
       </button>
